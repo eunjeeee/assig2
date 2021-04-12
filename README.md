@@ -104,6 +104,7 @@ end
 - 동영상의 주파수 대역을 분석해 주파수 대역의 초점을 맞춤
   - baby 동영상의 경우 First Cutoff Frequency = 0.8, Second Cutoff Frequency = 1 로 설정
   - face 동영상의 경우 First Cutoff Frequency = 0.6, Second Cutoff Frequency = 0.7 로 설정
+ 
 ```matlab
 bp = butterworthBandpassFilter(Fs, 256, 0.83, 1);
 
