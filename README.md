@@ -184,6 +184,7 @@ end
 ```
 
 ### RESULT
+- 아기의 호흡과 사람 피부의 미묘한 움직임을 더 잘 확인할 수 있음
 <p align='center'>
   <img src='./image/baby2.gif' width="600px">
   <img src='./image/face.gif' width="300px">
@@ -191,7 +192,8 @@ end
 
 
 ### EXTRA CREDIT: CAPTURE AND MOTION-MAGNIFY YOUR OWN VIDEO
-- 
+- 고양이의 움직임이 더 잘 보임
+- 전체적으로 카메라도 흔들려서 baby나 face 동영상만큼 뚜렷한 결과는 얻지 
 <p align='center'>
   <img src='./image/cat.gif' width="500px">
 </p>
