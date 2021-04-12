@@ -137,7 +137,7 @@ end
 ```
 
 ### IMAGE RECONSTRUCTION
-
+-Laplacian pyramid를 프레임 당 단일 이미지로 축소
 ```matlab
 frame_list_reconstructed = zeros(h, w, ch, frame_num);
 alpha_0 = 100;
